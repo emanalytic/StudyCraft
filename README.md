@@ -114,6 +114,5 @@ This was a fun project I did just for fun, and I hope you like it*
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/eman-nisar/">LinkedIn</a> •
-  <a href="mailto:emanisar3@gmail.com">Email</a>
 </p>
 
